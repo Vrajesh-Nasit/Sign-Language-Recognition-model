@@ -1,1 +1,1 @@
-#Sign Language Recognition using Hand MediaPipe framework and LSTM model
+# Sign Language Recognition using Hand MediaPipe framework and LSTM model
